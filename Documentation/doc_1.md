@@ -7,3 +7,5 @@ Hint: Use stack
 
 
 ANSWER:
+[![Photo](Output/OUTPUT1.png)](Output/OUTPUT1.png)
+
