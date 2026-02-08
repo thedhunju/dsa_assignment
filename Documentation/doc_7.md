@@ -2,4 +2,7 @@
 
 
 ANSWER:
-[![Photo](Output/OUTPUT7.png)](Output/OUTPUT7.png)
+**Input/Output**
+
+![alt text](../Output/OUTPUT7.png)
+
