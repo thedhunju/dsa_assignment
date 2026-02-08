@@ -8,7 +8,7 @@ Hint: Use stack
 
 ANSWER:
 
-Data Structures
+
 The program uses a stack to keep track of opening brackets. A stack works like a pile of plates - you add on top and remove from the top.
 
 char stk[SIZE]: An array that holds up to 100 characters. It stores the opening brackets we find like (, [, and {.
@@ -26,10 +26,10 @@ This is the main function that checks the whole expression. It goes through each
 Main Method Organization
 The main function tests three different expressions to see if their brackets are balanced:
 
-First, it creates three test expressions as strings.
-Then, for each expression it prints the expression and calls the check() function.
-Based on what check() returns, it prints either "Balanced" or "Not Balanced".
-Finally, it returns 0 to end the program.
+1. First, it creates three test expressions as strings.
+2. Then, for each expression it prints the expression and calls the check() function.
+3. Based on what check() returns, it prints either "Balanced" or "Not Balanced".
+4. Finally, it returns 0 to end the program.
 **Input/Output**
 
 ![alt text](../Output/OUTPUT1.png)
