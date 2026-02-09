@@ -31,4 +31,7 @@ The main function handles graph creation and demonstrates both traversal techniq
 7. All vertices are marked as unvisited again by resetting the visited array.
 8. The DFS function is called to perform depth-first traversal and display the result.
 9. The program ends by returning 0.
+**Input/Output**
+
+![alt text](../Output/OUTPUT5.png)
 
